@@ -13,7 +13,7 @@
         color: hsl(179, 100%, 13%);
     }
     button{
-        
+        margin-bottom: 10px;
         font-size: 20px;
         margin-left: 15%;
         margin-top: 20%;
@@ -90,6 +90,7 @@
         color: hsl(179, 100%, 13%);
     }
     button{
+        margin-bottom: 10px;
         font-size: 20px;
         margin-left: 15%;
         margin-top: 20%;
